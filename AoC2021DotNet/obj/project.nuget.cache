@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "psDpqDbe+eJKJ+Xv5Lih7+sClp1OUmyxv7jIi4W1z2xXFZGNZ3lj+kKbHW7UNajpw3mpOkhnFITKZYaP1kesYw==",
+  "success": true,
+  "projectFilePath": "/Users/danny/Projects/Infi/Aoc-2021-DotNet/AoC2021DotNet/AoC2021DotNet.csproj",
+  "expectedPackageFiles": [
+    "/Users/danny/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
