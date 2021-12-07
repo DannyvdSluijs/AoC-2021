@@ -1,5 +1,4 @@
-﻿using System;
-using AoC2021DotNet.AoC;
+﻿using AoC2021DotNet.AoC;
 
 namespace AoC2021DotNet
 {
@@ -7,7 +6,7 @@ namespace AoC2021DotNet
     {
         static void Main(string[] args)
         {
-            new Day2().Part2();
+            new Day7().Part2();
         }
     }
 }
