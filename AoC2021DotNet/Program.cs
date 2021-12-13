@@ -6,7 +6,7 @@ namespace AoC2021DotNet
     {
         static void Main(string[] args)
         {
-            new Day7().Part2();
+            new Day8().Part2();
         }
     }
 }
